@@ -1,0 +1,25 @@
+* Seed Generation Command : cat /dev/urandom |LC_ALL=C tr -dc 'A-Z9'| fold -w 81 | head -n 1
+
+-----------------------------------------------------------------------------------------------
+
+Generated seeds :
+
+1.  DVIHTWTYDXTAUCCSFRJKGMQWDTUJFBPTACLGH9I9IYEUOGUKOWSVCLSIXUYUMAVJNSUWUFYWTTDBSEBJQ
+
+2.  SBZOFNTMVIQKXRAC9GC9RVBOXWMWQAVTOYFBBZMKNDRQPNJXRYBWVPLEPUYZGGVXULDIELQVWR9KFILYE
+
+
+Addresses :
+
+1.  NGMSCT9FYO9SR9GBMGEEIV9X9IWZOTVZYAVWIGPOMOB9OOUYPWXCHLQQRDDCSEKZ9IOP9MPYYGVPHGYKBAKUMTCVQD
+
+2.  JR9XMLPC9XTQUCLFZLJNKZAPAWNBJSZSIVJD9ARGWCYPRPAMCFBNGZPHHFBRYXDVRPDRSWDINQLURZGCWUNRUNWSUZ
+
+
+
+
+----------------------------------------------------------------------------------------
+
+Links to check balances:
+
+
